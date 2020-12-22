@@ -1,0 +1,121 @@
+Variable,Date,Model,LOO weight,Stacking weight
+Absorption efficiency,10-Dec,AE.0,0,0
+Absorption efficiency,10-Dec,AE.1,0.54,0.94
+Absorption efficiency,10-Dec,AE.2,0.27,0
+Absorption efficiency,10-Dec,AE.3,0.19,0.06
+Absorption efficiency,10-Dec,AE.0,0,0
+Absorption efficiency,10-Dec,AE.1,0.41,0.7
+Absorption efficiency,10-Dec,AE.2,0.33,0
+Absorption efficiency,10-Dec,AE.3,0.26,0.3
+Absorption efficiency,11-Dec,AE.0,0,0
+Absorption efficiency,11-Dec,AE.1,0.46,0.84
+Absorption efficiency,11-Dec,AE.2,0.32,0
+Absorption efficiency,11-Dec,AE.3,0.22,0.16
+Absorption efficiency,12-Dec,AE.0,0,0
+Absorption efficiency,12-Dec,AE.1,0.64,1
+Absorption efficiency,12-Dec,AE.2,0.22,0
+Absorption efficiency,12-Dec,AE.3,0.14,0
+Absorption efficiency,12-Dec,AE.0,0,0
+Absorption efficiency,12-Dec,AE.1,0.4,0.75
+Absorption efficiency,12-Dec,AE.2,0.36,0
+Absorption efficiency,12-Dec,AE.3,0.24,0.25
+Absorption efficiency,12-Dec,AE.0,0,0
+Absorption efficiency,12-Dec,AE.1,0.41,0.61
+Absorption efficiency,12-Dec,AE.2,0.28,0
+Absorption efficiency,12-Dec,AE.3,0.32,0.39
+Absorption efficiency,12-Dec,AE.0,0,0
+Absorption efficiency,12-Dec,AE.1,0.57,0.95
+Absorption efficiency,12-Dec,AE.2,0.22,0
+Absorption efficiency,12-Dec,AE.3,0.21,0.05
+Absorption efficiency,12-Dec,AE.0,0,0
+Absorption efficiency,12-Dec,AE.1,0.5,0.87
+Absorption efficiency,12-Dec,AE.2,0.29,0
+Absorption efficiency,12-Dec,AE.3,0.21,0.13
+Absorption efficiency,12-Dec,AE.0,0,0
+Absorption efficiency,12-Dec,AE.1,0.44,0.78
+Absorption efficiency,12-Dec,AE.2,0.35,0
+Absorption efficiency,12-Dec,AE.3,0.21,0.22
+Absorption efficiency,12-Dec,AE.0,0,0
+Absorption efficiency,12-Dec,AE.1,0.44,0.85
+Absorption efficiency,12-Dec,AE.2,0.36,0
+Absorption efficiency,12-Dec,AE.3,0.2,0.15
+Gut length,04-Dec,GL.0,0,0.05
+Gut length,04-Dec,GL.1,0.06,0
+Gut length,04-Dec,GL.2,0.8,0.89
+Gut length,04-Dec,GL.3,0.14,0.06
+Gut length,08-Dec,GL.0,0,0.05
+Gut length,08-Dec,GL.1,0.07,0
+Gut length,08-Dec,GL.2,0.68,0.64
+Gut length,08-Dec,GL.3,0.24,0.32
+Gut length,10-Dec,GL.0,0,0.05
+Gut length,10-Dec,GL.1,0.03,0
+Gut length,10-Dec,GL.2,0.71,0.7
+Gut length,10-Dec,GL.3,0.26,0.25
+Gut length,10-Dec,GL.0,0,0.05
+Gut length,10-Dec,GL.1,0.04,0
+Gut length,10-Dec,GL.2,0.77,0.71
+Gut length,10-Dec,GL.3,0.19,0.24
+Gut length,11-Dec,GL.0,0,0.04
+Gut length,11-Dec,GL.1,0.06,0
+Gut length,11-Dec,GL.2,0.56,0.71
+Gut length,11-Dec,GL.3,0.38,0.24
+Gut length,12-Dec,GL.0,0,0.05
+Gut length,12-Dec,GL.1,0.06,0
+Gut length,12-Dec,GL.2,0.74,0.76
+Gut length,12-Dec,GL.3,0.21,0.19
+Gut length,12-Dec,GL.0,0,0.05
+Gut length,12-Dec,GL.1,0.03,0
+Gut length,12-Dec,GL.2,0.79,0.83
+Gut length,12-Dec,GL.3,0.18,0.12
+Gut length,12-Dec,GL.0,0,0.05
+Gut length,12-Dec,GL.1,0.02,0
+Gut length,12-Dec,GL.2,0.76,0.68
+Gut length,12-Dec,GL.3,0.21,0.27
+Gut length,12-Dec,GL.0,0,0.05
+Gut length,12-Dec,GL.1,0.03,0
+Gut length,12-Dec,GL.2,0.82,0.87
+Gut length,12-Dec,GL.3,0.15,0.08
+Gut length,12-Dec,GL.0,0,0.05
+Gut length,12-Dec,GL.1,0.06,0
+Gut length,12-Dec,GL.2,0.72,0.7
+Gut length,12-Dec,GL.3,0.22,0.25
+Gut length,12-Dec,GL.0,0,0.05
+Gut length,12-Dec,GL.1,0.03,0
+Gut length,12-Dec,GL.2,0.83,0.85
+Gut length,12-Dec,GL.3,0.14,0.1
+Gut passage time,01-Dec,GP.0,0.04,0.19
+Gut passage time,01-Dec,GP.1,0.03,0
+Gut passage time,01-Dec,GP.2,0.93,0.81
+Gut passage time,01-Dec,GP.0,0.09,0.19
+Gut passage time,01-Dec,GP.1,0.03,0
+Gut passage time,01-Dec,GP.2,0.88,0.81
+Gut passage time,01-Dec,GP.0,0.03,0.18
+Gut passage time,01-Dec,GP.1,0.01,0
+Gut passage time,01-Dec,GP.2,0.96,0.82
+Gut passage time,02-Dec,GP.0,0.14,0.24
+Gut passage time,02-Dec,GP.1,0.07,0
+Gut passage time,02-Dec,GP.2,0.79,0.76
+Gut passage time,03-Dec,GP.0,0.08,0.24
+Gut passage time,03-Dec,GP.1,0.02,0
+Gut passage time,03-Dec,GP.2,0.9,0.76
+Gut passage time,04-Dec,GP.0,0.07,0.23
+Gut passage time,04-Dec,GP.1,0.05,0
+Gut passage time,04-Dec,GP.2,0.88,0.77
+Gut passage time,04-Dec,GP.0,0.12,0.23
+Gut passage time,04-Dec,GP.1,0.04,0
+Gut passage time,04-Dec,GP.2,0.84,0.77
+Gut passage time,04-Dec,GP.0,0.05,0.24
+Gut passage time,04-Dec,GP.1,0.04,0
+Gut passage time,04-Dec,GP.2,0.91,0.76
+Gut passage time,08-Dec,GP.0,0.1,0.17
+Gut passage time,08-Dec,GP.1,0.04,0
+Gut passage time,08-Dec,GP.2,0.86,0.83
+Gut passage time,10-Dec,GP.0,0.05,0.16
+Gut passage time,10-Dec,GP.1,0.03,0
+Gut passage time,10-Dec,GP.2,0.93,0.84
+Gut passage time,10-Dec,GP.0,0.08,0.2
+Gut passage time,10-Dec,GP.1,0.07,0
+Gut passage time,10-Dec,GP.2,0.85,0.8
+Gut passage time,11-Dec,GP.0,0.02,0.18
+Gut passage time,11-Dec,GP.1,0.01,0
+Gut passage time,11-Dec,GP.2,0.97,0.82
